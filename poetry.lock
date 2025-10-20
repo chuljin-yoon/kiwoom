@@ -61,6 +61,15 @@ files = [
 ]
 
 [[package]]
+name = "dart-fss"
+version = "0.4.6"
+description = "Financial Supervisory Service DART API wrapper"
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+files = []
+
+[[package]]
 name = "fastapi"
 version = "0.119.0"
 description = "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
@@ -341,4 +350,4 @@ standard = ["colorama (>=0.4) ; sys_platform == \"win32\"", "httptools (>=0.6.3)
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12"
-content-hash = "f20ed8c59ce4dfd73466c27398310ce1f391d1ac8b28ff0711090b0a4ec64027"
+content-hash = "1b2b00021e513eaf07e41ee1aa00fe9df784e0b877e0034ff85f33e4b8d18fab"
